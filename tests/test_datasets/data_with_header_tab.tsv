@@ -1,0 +1,6 @@
+# This is a tab-separated file with a header
+Time	Value1	Value2	Comment
+0.0	10.0	100.0	Start
+1.0	11.0	101.0	Mid1
+2.0	12.0	102.0	Mid2
+3.0	13.0	103.0	End

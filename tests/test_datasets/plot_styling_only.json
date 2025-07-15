@@ -1,0 +1,31 @@
+{
+  "use_latex": false,
+  "scienceplot_style": "ieee",
+  "figsize": [
+    3.5,
+    3.5
+  ],
+  "xlabel": "$\\epsilon$ (eV)",
+  "ylabel": "$f$ (eV$^{3/2}$)",
+  "xscale": "linear",
+  "yscale": "log",
+  "xlim": [
+    0,
+    40
+  ],
+  "ylim": [
+    1e-06,
+    1000.0
+  ],
+  "legend": "on",
+  "legend_params": {
+    "frameon": false,
+    "loc": "upper right",
+    "fontsize": 10
+  },
+  "grid": false,
+  "save_img_fmts": [
+    "png",
+    "pdf"
+  ]
+}

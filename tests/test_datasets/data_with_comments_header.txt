@@ -1,0 +1,6 @@
+# This is a comment before the header
+# Another comment
+#
+Time    Data1   Data2
+1.0     10.0    20.0
+2.0     11.0    21.0

@@ -1,0 +1,17 @@
+README.md
+setup.py
+pyPlots.egg-info/PKG-INFO
+pyPlots.egg-info/SOURCES.txt
+pyPlots.egg-info/dependency_links.txt
+pyPlots.egg-info/entry_points.txt
+pyPlots.egg-info/requires.txt
+pyPlots.egg-info/top_level.txt
+pyplots/__init__.py
+pyplots/cli.py
+pyplots/config_module.py
+pyplots/data_io.py
+pyplots/multi_plot.py
+pyplots/plot_saver.py
+pyplots/plotting.py
+tests/test_cli_and_core.py
+tests/test_plotconfig.py

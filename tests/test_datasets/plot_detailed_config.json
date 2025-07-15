@@ -1,0 +1,51 @@
+{
+  "datasets": [
+    {
+      "file": "test_0_final.txt",
+      "xcol": "x",
+      "ycols": [2],
+      "labels": ["Dataset 1"],
+      "colors": ["#1f77b4"],
+      "markers": ["o"],
+      "linestyles": ["-"],
+      "markersize": 3,
+      "markevery": 0.1,
+      "comment_header_idx": 1
+    },
+    {
+      "file": "data_with_header_tab.tsv",
+      "xcol": "Time",
+      "ycols": ["Value1", "Value2"],
+      "labels": ["First Measurement", "Second Measurement"],
+      "colors": ["#1f09b4", "#ff5733"],
+      "markers": ["s", "^"],
+      "linestyles": ["-", "--"],
+      "markersize": 4,
+      "markevery": 10,
+      "delimiter": "\t",
+      "header_line_idx": 0
+    }
+  ],
+  "plot_settings": {
+    "xlabel": "$\\epsilon$ (eV)",
+    "ylabel": "$f$ (eV$^{3/2}$)",
+    "figsize": [3.5, 3.5],
+    "xscale": "linear",
+    "yscale": "log",
+    "xlim": [0, 40],
+    "ylim": [1e-6, 1e3],
+    "grid": false,
+    "legend": "on",
+    "legend_params": {
+      "frameon": false,
+      "loc": "upper right",
+      "fontsize": 10
+    },
+    "use_latex": false,
+    "scienceplot_style": "ieee",
+    "save_img_name": "comprehensive_plot",
+    "save_img_fmts": ["png", "pdf"],
+    "save_json": "plot_data_and_settings.json",
+    "save_settings": "plot_styling_only.json"
+  }
+}

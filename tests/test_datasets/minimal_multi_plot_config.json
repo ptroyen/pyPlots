@@ -1,0 +1,19 @@
+{
+  "datasets": [
+    {
+      "file": "tests/test_datasets/simple_data.txt",
+      "xcol": 0,
+      "ycols": [1],
+      "labels": ["My Minimal Plot"],
+      "color": "darkblue"
+    }
+  ],
+  "plot_settings": {
+    "xlabel": "Time (s)",
+    "ylabel": "Value",
+    "title": "Minimal Test Plot",
+    "legend": "on",
+    "grid": true,
+    "save_png": "minimal_test_output.png"
+  }
+}

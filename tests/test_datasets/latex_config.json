@@ -1,0 +1,17 @@
+{
+  "style": {
+    "use_scienceplot": false,
+    "use_latex": true,
+    "figure_dpi": 300
+  },
+  "fonts": {
+    "family": "serif",
+    "size": 11,
+    "title_size": 14,
+    "label_size": 12
+  },
+  "markers": {
+    "default": "s",
+    "size": 6
+  }
+}

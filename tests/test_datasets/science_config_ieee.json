@@ -1,0 +1,29 @@
+{
+    "style": {
+      "use_scienceplot": true,
+      "scienceplot_style": "ieee",
+      "use_latex": true,
+      "figure_dpi": 300,
+      "figsize": [4, 5]
+    },
+    "fonts": {
+      "family": "serif",
+      "size": 10,
+      "title_size": 12,
+      "label_size": 10,
+      "legend_size": 9,
+      "tick_size": 8
+    },
+    "markers": {
+      "default": "o",
+      "size": 5,
+      "every": 0.1
+    },
+    "lines": {
+      "width": 1.5,
+      "style": "-"
+    },
+    "legend_params": {
+      "frameon": false
+    }
+  }

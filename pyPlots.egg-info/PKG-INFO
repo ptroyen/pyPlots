@@ -1,0 +1,32 @@
+Metadata-Version: 2.2
+Name: pyPlots
+Version: 0.1.0
+Summary: A versatile Python library for post-processing and plotting data.
+Home-page: https://github.com/ptroyen/pyPlots
+Author: Sagar Pokharel
+Author-email: ptroyen@gmai.com
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: matplotlib>=3.5.0
+Provides-Extra: styles
+Requires-Dist: scienceplots==2.1.1; extra == "styles"
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# pyPlots
+post processing data. store data for modifying plots and long term storage

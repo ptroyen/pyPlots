@@ -1,0 +1,2 @@
+[console_scripts]
+pyplots = pyplots.cli:main

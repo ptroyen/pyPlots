@@ -1,0 +1,5 @@
+# This is a comma-separated file with a header
+"Index","Measurement A","Measurement B"
+1,1.1,2.2
+2,3.3,4.4
+3,5.5,6.6

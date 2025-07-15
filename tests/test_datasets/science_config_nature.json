@@ -1,0 +1,19 @@
+{
+  "style": {
+    "use_scienceplot": true,
+    "scienceplot_style": "nature",
+    "use_latex": false,
+    "figure_dpi": 300
+  },
+  "fonts": {
+    "size": 9
+  },
+  "lines": {
+    "width": 1.2
+  },
+  "markers": {
+    "default": "^",
+    "size": 4,
+    "every": 2
+  }
+}
